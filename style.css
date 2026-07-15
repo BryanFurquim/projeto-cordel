@@ -15,7 +15,7 @@ header{
     padding-top: 50px;
     padding-bottom: 50px;
     font-family: 'passion one';
-    font-size: 100px;
+    font-size: 8vw;
 }
 .milton{
     background-color: black;
@@ -39,8 +39,8 @@ a:hover{
     line-height: 2.2;
     padding-left: 30px;
     padding-top: 91px;
-    min-height: 1000px;
-    font-size: 67px;
+    min-height: 60vh;
+    font-size: 3.5vw;
     font-family: 'sriracha';
 }
 
@@ -50,13 +50,13 @@ a:hover{
     padding-left: 30px;
     padding-top: 91px;
     padding-bottom: 91px;
-    min-height: 1000px;
+    min-height: 60vh;
     background-image: url(pacote-d012/imagens/background001.jpg);
-    background-position: right center;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    font-size: 67px;
+    font-size: 3.5vw;
     font-family: 'sriracha';
 }
 .img-flor p{
@@ -68,7 +68,7 @@ a:hover{
 }
 
 #maior{
-    min-height: 2000px;
+    min-height: 90vh;
 }
 
 .img-papel{
@@ -80,11 +80,11 @@ a:hover{
     padding-bottom: 91px;
     min-height: 1000px;
     background-image: url(pacote-d012/imagens/background002.jpg);
-    background-position: left center;
+    background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    font-size: 67px;
+    font-size: 3.5vw;
     font-family: 'sriracha';
 }
 .img-papel p{
