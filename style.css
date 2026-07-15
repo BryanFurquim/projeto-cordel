@@ -54,7 +54,7 @@ a:hover{
     background-image: url(pacote-d012/imagens/background001.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 250vw auto;
     background-attachment: fixed;
     font-size: 3.5vw;
     font-family: 'sriracha';
@@ -82,7 +82,7 @@ a:hover{
     background-image: url(pacote-d012/imagens/background002.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 250vw auto;
     background-attachment: fixed;
     font-size: 3.5vw;
     font-family: 'sriracha';
