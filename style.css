@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Black+Ops+One&family=Montenegrin+Gothic+One&family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'passion one';
+    font-size: 100px;
+}
+.milton{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 50px;
+}
+#autor{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+header p a {
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.fundo-branco{
+    line-height: 2.2;
+    padding-left: 30px;
+    padding-top: 91px;
+    min-height: 1000px;
+    font-size: 67px;
+    font-family: 'sriracha';
+}
+
+.img-flor{
+    line-height: 2.2;
+    color: white;
+    padding-left: 30px;
+    padding-top: 91px;
+    padding-bottom: 91px;
+    min-height: 1000px;
+    background-image: url(pacote-d012/imagens/background001.jpg);
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 67px;
+    font-family: 'sriracha';
+}
+.img-flor p{
+    padding: 10px 15px;
+    background-color: rgba(0, 0, 0, 0.582);
+    max-width: 90vw;
+    width: fit-content;
+    font-size: 3.5vw;
+}
+
+#maior{
+    min-height: 2000px;
+}
+
+.img-papel{
+    line-height: 2.2;
+    color: white;
+    font-weight: 400;
+    padding-left: 30px;
+    padding-top: 91px;
+    padding-bottom: 91px;
+    min-height: 1000px;
+    background-image: url(pacote-d012/imagens/background002.jpg);
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 67px;
+    font-family: 'sriracha';
+}
+.img-papel p{
+    text-shadow: 1px 2px 2px black;
+    background-color: rgba(0, 0, 0, 0.582);
+    max-width: 90vw;
+    width: fit-content;
+    font-size: 3.5vw;
+    padding: 10px 15px;
+}
+
+.fundobranco2{
+    margin-bottom: 150px;
+}
+
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
